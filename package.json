@@ -1,0 +1,17 @@
+{
+  "name": "stockflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Warehouse management system and software engineering portfolio project.",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jberrocal2016/stockflow.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
